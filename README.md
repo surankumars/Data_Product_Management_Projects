@@ -1,0 +1,6 @@
+# Data_Product_Management_Projects
+The Main Thread is Launching Flyber, a Flying car service in New York city region. Using Data Analysis a product proposal is made, then Data Instrumentation strategy made and finally A/B testing and Multivarate testing is carried out to iterate the product. The tests were insignificant and hence we create Hypothesis on suggested new features and carrying out the Multivariate testing with them.
+These Projects have been labelled in the order to denote Progression from a)Applying Data Science to Product Management to b) Establishing Data Infrastructure and finally c) Leveraging Data In Iterative Product Design.
+Projects 1 & 2 fall under Applying Data Science to Product Management, wherein a business case is made for Product Proposal of Flyber, Flying Car taxi.
+Project 3 falls under Establishing Data Infrastructure, to collect and store the data required for KPIs calculation. This covers the Data Instrumentation strategy.
+Project 4 falls under Leveraging data in Iterative Product Design, wherein we analyse the Multi-variate testing data for significance and then frame Hypothesis on new features to be included. Finally we suggest an experimentation plan including Multivariate testing Frameworks for the features.
